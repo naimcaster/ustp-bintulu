@@ -5,10 +5,10 @@
         <div class="container-fluid bg-primary py-5 hero-header mb-5">
             <div class="row py-3">
                 <div class="col-12 text-center">
-                    <h1 class="display-3 text-white animated zoomIn">Contact Us</h1>
-                    <a href="" class="h4 text-white">Home</a>
+                    <h1 class="display-3 text-white animated zoomIn">Hubungi Kami</h1>
+                    <a href="" class="h4 text-white">Umum</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h4 text-white">Contact</a>
+                    <a href="" class="h4 text-white">Hubungi</a>
                 </div>
             </div>
         </div>
@@ -35,14 +35,14 @@
                             <div class="d-flex align-items-center mb-2">
                                 <i class="bi bi-envelope-open fs-1 text-primary me-3"></i>
                                 <div class="text-start">
-                                    <h5 class="mb-0">Email Us</h5>
+                                    <h5 class="mb-0">Email Kami</h5>
                                     <span>ppdbintulu@moe.gov.my</span>
                                 </div>
                             </div>
                             <div class="d-flex align-items-center">
                                 <i class="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                                 <div class="text-start">
-                                    <h5 class="mb-0">Call Us</h5>
+                                    <h5 class="mb-0">Hubungi Kami</h5>
                                     <span>+086-331627</span>
                                 </div>
                             </div>
@@ -67,7 +67,7 @@
                                     <textarea class="form-control border-0 bg-light px-4 py-3" rows="5" placeholder="Message"></textarea>
                                 </div>
                                 <div class="col-12">
-                                    <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
+                                    <button class="btn btn-primary w-100 py-3" type="submit">Tinggalkan Pesanan Anda</button>
                                 </div>
                             </div>
                         </form>
