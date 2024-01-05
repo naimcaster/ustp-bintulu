@@ -10,4 +10,8 @@ use Illuminate\Routing\Controller as BaseController;
 class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
+    public function user_dashboard(){
+        $data = 'Hello';
+        return view('user.dashboard', compact('data'));
+    }
 }

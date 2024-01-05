@@ -17,6 +17,7 @@
     @include('layouts.styles')
     @include('layouts.fonts')
     @yield('preload-scripts')
+    @yield('page-scripts')
 
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
