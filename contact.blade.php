@@ -23,12 +23,12 @@
                         <div class="bg-light rounded h-100 p-5">
                             <div class="section-title">
                                 <h5 class="position-relative d-inline-block text-primary text-uppercase">Contact Us</h5>
-                                <h1 class="display-6 mb-4">Feel Free To Contact Us</h1>
+                                <h1 class="display-6 mb-4">Perkhidmatan Percuma</h1>
                             </div>
                             <div class="d-flex align-items-center mb-2">
                                 <i class="bi bi-geo-alt fs-1 text-primary me-3"></i>
                                 <div class="text-start">
-                                    <h5 class="mb-0">Our Office</h5>
+                                    <h5 class="mb-0">Pejabat Kami</h5>
                                     <span>Pejabat Pendidikan Daerah Bintulu</span>
                                 </div>
                             </div>
